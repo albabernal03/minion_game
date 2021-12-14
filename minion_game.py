@@ -7,6 +7,8 @@ def minion_game(palabra):
     for i in range (len(s)):
         if s[i] not in vocales:
             puntuacion_Stuart = puntuacion_Stuart + (len(s)-i)
+        else:
+            puntuacion_Kevin = puntuacion_Kevin + (len(s)-i)
 
   
 
