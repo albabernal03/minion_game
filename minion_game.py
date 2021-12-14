@@ -22,3 +22,4 @@ if __name__ == '__main__':
     palabra = input('Elige una palabra:')
     print('La palabra seleccionada es:', palabra)
     minion_game(palabra)
+  
