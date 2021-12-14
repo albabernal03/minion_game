@@ -7,3 +7,6 @@ Asimismo mencionar que cada jugador recibe un punto por cada vez que la subcaden
 
 **EJEMPLO VISUAL DEL JUEGO:**
 
+
+![foto](https://user-images.githubusercontent.com/91721875/145980432-3df10a44-0a9f-481f-9b7d-49a750079de6.jpg)
+
