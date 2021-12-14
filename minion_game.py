@@ -11,6 +11,8 @@ def minion_game(palabra):
             puntuacion_Kevin = puntuacion_Kevin + (len(s)-i)
     if puntuacion_Stuart > puntuacion_Kevin:
         print('Stuart es el ganador, con una puntuación =', puntuacion_Stuart)
+    elif puntuacion_Stuart < puntuacion_Kevin:
+        print('Kevin es el ganador, con una puntuación =', puntuacion_Kevin)
 
   
 
