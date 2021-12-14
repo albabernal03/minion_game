@@ -9,6 +9,7 @@ def minion_game(palabra):
             puntuacion_Stuart = puntuacion_Stuart + (len(s)-i)
         else:
             puntuacion_Kevin = puntuacion_Kevin + (len(s)-i)
+    if puntuacion_Stuart > puntuacion_Kevin:
 
   
 
