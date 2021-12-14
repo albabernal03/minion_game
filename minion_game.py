@@ -4,6 +4,8 @@ def minion_game(palabra):
     vocales = 'AEIOU'
     s = palabra.upper()
 
+    for i in range (len(s)):
+
   
 
 if __name__ == '__main__':
