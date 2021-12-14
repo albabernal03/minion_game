@@ -5,6 +5,7 @@ def minion_game(palabra):
     s = palabra.upper()
 
     for i in range (len(s)):
+        if s[i] not in vocales:
 
   
 
